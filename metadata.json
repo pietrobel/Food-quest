@@ -1,0 +1,6 @@
+{
+  "name": "FOOD QUEST – La missione dell'alimentazione sana",
+  "description": "Applicazione didattica interattiva per la scuola secondaria di primo grado: quiz, minigiochi, videogioco 2D, sfida del piatto sano, food battle, detective delle etichette e pensiero computazionale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
